@@ -1,0 +1,13 @@
+{
+  "name": "Upgrade All Units",
+  "id": "com.github.lbrunner.uau",
+  "version": "0.1",
+  "game_id": "victoria3",
+  "supported_game_version": "1.6.*",
+  "short_description": "Allow to upgrade/downgrade all military unit types to any other available one. No more micromanagement!",
+  "tags": ["upgrade", "downgrade", "military"],
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized": true
+  }
+}
