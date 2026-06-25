@@ -7,4 +7,4 @@ No more micromanagement!
 
 ## Installation
 
-Steam workshop: [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3208723812)
+Go to the [Steam workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3208723812)
